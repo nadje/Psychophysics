@@ -1,21 +1,21 @@
 # Psychophysics
 
-Find the data and preregistration protocol in OSF: https://osf.io/ypajr/
 
-- Raw data are stored per task in the Raw_data folder 
-
-- The analyzed data will be stored in the Analysis folder
+- Raw data are stored per task (Detection_Raw_data and Discrimination_Raw_Data) 
 
 Analysis steps:
 
 1. Run first SoEThresh_Detection.m, SoEThresh_Detection_DPrimeAnalysis.m, and SoEThresh_Discrimination.m
-- The output data of these scripts will be used for the psychometric fitting procedure and statistical analysis in R
+    
+    - The output data of these scripts will be used for the psychometric fitting procedure and statistical analysis in R
 
 2. Run 1.Detection_Task.R and 2.Discrimination_task.R
 
 4. Keep in your global environment in R the data created in Step 2 and run 3.Correlations.R. 
 
 If you find bugs and/or you have questions, please contact me: nadiaparask@gmail.com 
+
+For more info, check the project on OSF: https://osf.io/ypajr/
 
 #### If you use data/code, please cite us: 
 
