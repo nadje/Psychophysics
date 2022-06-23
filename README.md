@@ -1,6 +1,6 @@
 # Psychophysics
 
-Find the data in OSF: https://osf.io/ypajr/
+Find the data and preregistration protocol in OSF: https://osf.io/ypajr/
 
 - Raw data are stored per task in the Raw_data folder 
 
