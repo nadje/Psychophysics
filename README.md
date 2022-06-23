@@ -1,7 +1,7 @@
 # Psychophysics
 
 
-- Raw data are stored per task (Detection_Raw_data and Discrimination_Raw_Data) 
+- Raw data are stored per task (Detection_raw_data and Discrimination_raw_Data) 
 
 Analysis steps:
 
